@@ -2,7 +2,7 @@
 const form = document.getElementById("loginForm");
 const message = document.getElementById("message");
 
-// Fake credentials (for learning only)
+// Fake credentials
 const correctUsername = "admin";
 const correctPassword = "1234";
 
